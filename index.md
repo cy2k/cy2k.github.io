@@ -1,1 +1,3 @@
-My name is Curtis Klope, and this is my home on the Internet.
+Relevant links:
+- LinkedIn: https://www.linkedin.com/in/curtisklope
+- Facebook: https://www.facebook.com/curtisklope
